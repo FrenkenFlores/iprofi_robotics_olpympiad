@@ -1,0 +1,19 @@
+<package format="2">
+  <version>1.0.0</version>
+  <name>profi2021_bachelor_scene</name>
+  <description>Gazebo bachelor scene package for Robotics section in yandex.ru/profi</description>
+
+  <author     email="ndema2301@gmail.com">Nikolay Dema</author>
+  <maintainer email="ndema2301@gmail.com">Nikolay Dema</maintainer>
+
+  <license>Apache License, Version 2.0</license>
+
+  <url type="website">https://gitlab.com/beerlab/iprofi2021</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+
+  <export>
+  </export>
+
+</package>
